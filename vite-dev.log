@@ -1,0 +1,59 @@
+
+> cefp-experiment-management-system@1.0.0 dev
+> vite --host 127.0.0.1 --port 5173
+
+
+  [32m[1mVITE[22m v7.3.6[39m  [2mready in [0m[1m415[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m11:45:22 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m11:57:09 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:08:55 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:16:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:20:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:21:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:22:21 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:23:19 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:24:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:27:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:32:30 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:48:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m12:48:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m12:50:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/components/ExperimentCard.tsx, /src/features/experiments/components/ExperimentFilters.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx[22m
+[2m12:50:05 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/components/ExperimentCard.tsx[22m
+[2m12:53:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/ExperimentDetailsPage.tsx, /src/styles/index.css[22m
+[2m12:54:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/styles/index.css[22m
+[2m12:54:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/StatisticsPage.tsx, /src/styles/index.css[22m
+[2m12:54:24 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/components/ExperimentFilters.tsx[22m
+[2m12:54:59 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m12:55:25 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/components/ExperimentRawTable.tsx[22m
+[2m1:02:02 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:02:26 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:02:42 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:02:54 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:03:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:03:33 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:03:49 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:04:10 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:04:22 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:04:35 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:04:48 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:14:46 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:14:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m1:14:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/ExperimentDetailsPage.tsx, /src/styles/index.css[22m
+[2m1:15:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx[22m
+[2m1:15:39 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:19:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/AppRoutes.tsx, /src/styles/index.css[22m
+[2m1:19:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/components/layout/Navbar.tsx[22m
+[2m1:19:14 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m1:19:44 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/ExperimentDetailsPage.tsx, /src/styles/index.css[22m
+[2m1:20:06 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/pages/DashboardPage.tsx, /src/features/experiments/pages/StatisticsPage.tsx, /src/features/experiments/pages/ExperimentDetailsPage.tsx[22m
+[2m1:20:13 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/StatisticsPage.tsx, /src/styles/index.css[22m
+[2m1:21:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mzustand/middleware[32m[39m
+[2m1:21:52 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m1:30:40 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/features/experiments/pages/ExperimentDetailsPage.tsx, /src/styles/index.css[22m
+[2m1:30:58 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/features/experiments/components/ExperimentCard.tsx[22m
+[2m1:37:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/routes/AppRoutes.tsx, /src/styles/index.css[22m
+[2m1:37:32 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css, /src/components/layout/Navbar.tsx[22m
+[2m1:40:56 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m
+[2m1:41:38 AM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/index.css[22m

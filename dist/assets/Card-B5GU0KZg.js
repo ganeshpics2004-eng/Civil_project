@@ -1,0 +1,1 @@
+import{j as e,d}from"./index-DBTjKko0.js";function t({className:r,children:s,...a}){return e.jsx("div",{className:d("rounded-lg border border-slate-200 bg-white p-5 shadow-soft dark:border-slate-800 dark:bg-slate-900",r),...a,children:s})}export{t as C};
